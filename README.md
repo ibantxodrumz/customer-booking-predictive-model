@@ -1,1 +1,1 @@
-# customer-booking-predictive-model
+# Customer Bookings-predictive-model
